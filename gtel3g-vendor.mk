@@ -51,6 +51,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gtel3g/proprietary/lib/libsecnativefeature.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsecnativefeature.so \
     vendor/samsung/gtel3g/proprietary/lib/libsecril-client.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsecril-client.so \
     vendor/samsung/gtel3g/proprietary/lib/libsprd_agps_agent.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsprd_agps_agent.so \
+    vendor/samsung/gtel3g/proprietary/lib/libstlport.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstlport.so \
     vendor/samsung/gtel3g/proprietary/lib/libuvdenoise.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libuvdenoise.so \
     vendor/samsung/gtel3g/proprietary/vendor/firmware/BCM43430A1_001.002.009.0022.0000_Samsung_TabE_SM-T561_TEST_ONLY.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/BCM43430A1_001.002.009.0022.0000_Samsung_TabE_SM-T561_TEST_ONLY.hcd \
     vendor/samsung/gtel3g/proprietary/vendor/firmware/vbc_eq:$(TARGET_COPY_OUT_VENDOR)/firmware/vbc_eq
